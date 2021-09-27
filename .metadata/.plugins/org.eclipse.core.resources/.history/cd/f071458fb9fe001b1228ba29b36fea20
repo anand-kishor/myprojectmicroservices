@@ -1,0 +1,8 @@
+server.port=9090
+spring.cloud.stream.bindings.outputuser.destination=userqueue
+spring.cloud.stream.bindings.input.group=saurav
+spring.cloud.stream.bindings.output.destination=output
+spring.cloud.stream.bindings.productOrders.destination=payment
+spring.cloud.stream.bindings.productsOrders.group=queue
+spring.cloud.stream.bindings.payments.destination=testorder
+spring.cloud.stream.bindings.inputuser.destination=inputuser

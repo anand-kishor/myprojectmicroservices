@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springcloud"/>
+<aop-project name="foodpointproject"/>
+<aop-project name="patnahub"/>
+<aop-project name="smartcont"/>
+<aop-project name="foodpoint"/>
+<aop-project name="project"/>
+<aop-project name="springrabbitmq"/>
+<aop-project name="springcloudproducerapi"/>
+<aop-project name="springcloudconsumerapi"/>
+<aop-project name="bookservice"/>
+<aop-project name="smartcontactmanager"/>
+<aop-project name="paytmintegration"/>
+<aop-project name="sendsmsonmobile"/>
+<aop-project name="springcloudmicroservices"/>
+<aop-project name="springcloudsecurity"/>
+<aop-project name="websocket-chatApplication"/>
+<aop-project name="smartcontactmanagerpart"/>
+</aop-reference-model>
